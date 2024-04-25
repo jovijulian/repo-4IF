@@ -1,5 +1,6 @@
 def myName(name):
   print("Nama saya " + name + ".")
 
-
-myName("Andy Victor")
+myName("Ripky R F")
+myName("Hairan kani")
+myName("Andy")
