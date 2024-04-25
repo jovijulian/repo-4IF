@@ -3,5 +3,6 @@ def myName(name):
 
 myName("Ripky R F")
 myName("Dindin Rizky")
+myName("Aditya PW")
 myName("Hairan kani")
 myName("Andy")
