@@ -2,6 +2,6 @@ def myName(name):
   print("Nama saya " + name + ".")
 
 myName("Ripky R F")
-myName("Moses Ganteng")
+myName("Moses Tampan")
 myName("Hairan kani")
 myName("Andy")
