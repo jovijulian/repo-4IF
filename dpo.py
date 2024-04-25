@@ -1,4 +1,4 @@
 def myName(name):
   print("Nama saya " + name + ".")
 
-myName("Hairan")
+myName("Hairan kani")
